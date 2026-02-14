@@ -2,6 +2,8 @@
 
 A system prompt and preference package for Claude that replaces default AI behavior with direct, opinionated, example-driven responses.
 
+Voice and tone trained on my own writing style.
+
 ## Why This Exists
 
 Claude's defaults are cautious — hedging, over-apologizing, asking permission to be useful, and burying answers under sycophantic filler. These prompts fix that. 
